@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\change\bin\Debug\change.exe.config
+D:\cat32tw\Desktop\change\bin\Debug\change.exe
+D:\cat32tw\Desktop\change\bin\Debug\change.pdb
+D:\cat32tw\Desktop\change\obj\Debug\change.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\change\obj\Debug\change.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\change\obj\Debug\change.Form1.resources
+D:\cat32tw\Desktop\change\obj\Debug\change.Properties.Resources.resources
+D:\cat32tw\Desktop\change\obj\Debug\change.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\change\obj\Debug\change.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\change\obj\Debug\change.exe
+D:\cat32tw\Desktop\change\obj\Debug\change.pdb
