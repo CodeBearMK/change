@@ -50,7 +50,7 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.功能FToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.numChange = new System.Windows.Forms.ToolStripMenuItem();
-            this.結束XToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -257,7 +257,7 @@
             // 
             this.功能FToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.numChange,
-            this.結束XToolStripMenuItem});
+            this.mniExit});
             this.功能FToolStripMenuItem.Name = "功能FToolStripMenuItem";
             this.功能FToolStripMenuItem.Size = new System.Drawing.Size(71, 24);
             this.功能FToolStripMenuItem.Text = "功能(&F)";
@@ -269,11 +269,12 @@
             this.numChange.Text = "兌換(&C)";
             this.numChange.Click += new System.EventHandler(this.numChange_Click);
             // 
-            // 結束XToolStripMenuItem
+            // mniExit
             // 
-            this.結束XToolStripMenuItem.Name = "結束XToolStripMenuItem";
-            this.結束XToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.結束XToolStripMenuItem.Text = "結束(&X)";
+            this.mniExit.Name = "mniExit";
+            this.mniExit.Size = new System.Drawing.Size(224, 26);
+            this.mniExit.Text = "結束(&X)";
+            this.mniExit.Click += new System.EventHandler(this.mniExit_Click);
             // 
             // Form1
             // 
@@ -323,7 +324,7 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem 功能FToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem numChange;
-        private System.Windows.Forms.ToolStripMenuItem 結束XToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem mniExit;
     }
 }
 

@@ -75,5 +75,10 @@ namespace change
                 textBox1.Text = "1689";
             }
         }
+
+        private void mniExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
